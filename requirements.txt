@@ -1,4 +1,7 @@
 numpy
-opencv==4.9.0
-matplotlib==3.9.0
+pandas
+Augmentor
+opencv
+matplotlib
 mediapipe
+torch
